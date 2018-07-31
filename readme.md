@@ -12,4 +12,4 @@ Kodların ve konuların detaylı anlatımlarını blog sayfamdan inceleyebilirsi
 https://hikmetkutuk.github.io/blog/
 
 ### Tkinter Pencere
-<p align="center"><img src="/assets/img/python-tkinter.png" width="900" height="600"></p>
+<p align="center"><img src="/assets/img/tkinter-window.png" width="900" height="600"></p>
