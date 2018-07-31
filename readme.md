@@ -12,5 +12,6 @@ Kodların ve konuların detaylı anlatımlarını blog sayfamdan inceleyebilirsi
 https://hikmetkutuk.github.io/blog/
 
 ### Tkinter Pencere
-<img align="right" width="100" height="100" src="/assets/img/tkinter-window.png">
-
+<p align="center">
+  <img width="460" height="300" src="/assets/img/tkinter-window.png">
+</p>
